@@ -1,16 +1,36 @@
-## Hi there 👋
+## Hi, I'm Arvind
 
-<!--
-**arvindd333/arvindd333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI / ML and Data Analytics enthusiast with a Master's degree in Information Technology and 3+ years of experience in data analysis and operational reporting at Flipkart. I enjoy working with data to extract insights, build machine learning models, and develop practical AI solutions.
 
-Here are some ideas to get you started:
+🔍 My interests include Machine Learning, Natural Language Processing (NLP), Data Analytics, and Generative AI. I have hands-on experience with Python, SQL, Power BI, and data analysis libraries such as Pandas and NumPy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Through my internship and projects, I have worked on data preprocessing, exploratory data analysis, machine learning fundamentals, and building analytics dashboards.
+
+### Technical Skills
+
+* **Programming:** Python, SQL
+* **Machine Learning:** Scikit-learn, PyTorch (Basics), NLP
+* **Data Analysis:** Pandas, NumPy, Exploratory Data Analysis
+* **Visualization:** Power BI, Advanced Excel
+* **Tools:** Git, GitHub, Jupyter Notebook
+
+### Featured Projects
+
+* NLP Intent Classification System
+* Customer Segmentation using Machine Learning
+* Sales Data Analytics Dashboard (SQL + Power BI)
+
+### Certifications
+
+* Generative AI Foundations – upGrad × Microsoft
+* Basic Python Programming – upGrad
+* Data Processing & Business Analytics – Anudip Foundation
+
+### Currently Learning
+
+* Deep Learning fundamentals
+* Model deployment for AI applications
+* Advanced machine learning workflows
+
+📫 **Connect with me:**
+LinkedIn: https://linkedin.com/in/arvind-dyavanapelli
